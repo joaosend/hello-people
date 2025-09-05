@@ -1,6 +1,3 @@
 # hello-people
-# test-area 
--teste-portifolio
--teste-fonte
-  # about me
-  meu nome é João, tenho 15 anos e sou estudante de engenharia de software
+about me
+meu nome é joao soares, tenho 16 anos, estudande de engenharia de software
